@@ -17,3 +17,10 @@
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+<br/>
+
+
+Apaixonado por tecnologia, a educação e tecnologia pode mudar o mundo e as pessoas.
+
+Estudante do curso de Graduação Sistemas de Informação.
